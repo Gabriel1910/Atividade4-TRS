@@ -1,8 +1,8 @@
 package com.cadastro.usuario;
 
-import java.util.Arrays; //
-import java.util.List; //
-import java.util.Optional; //
+import java.util.Arrays;
+import java.util.List;
+import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.BeforeEach;
